@@ -1,2 +1,2 @@
-# Daily-Python-Work-
-Tracking my daily Python learning journey through code and practice.
+Daily_Python_practice_update 
+Where I update everyday Python works 
